@@ -1,0 +1,6 @@
+include ':Annotations'
+include ':Library2'
+include ':Complier'
+include ':library'
+include ':app'
+rootProject.name = "RuntimePermission"
